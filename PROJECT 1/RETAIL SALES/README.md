@@ -1,7 +1,7 @@
-## **Retail Sales Performance Analysis - Trends and Insights (2023)**
+## **Retail Sales Performance Analysis - Trends and Insights**
 
 ### **Executive Summary**
-The retail business generated **$456K** in total revenue across **1,000 transactions** during 2023, maintaining an impressive average transaction value of **$456**. Operating across three distinct product categories—Electronics, Clothing, and Beauty—the business demonstrates a well-balanced revenue distribution with strong demographic engagement across various age groups and genders.
+The retail business generated **$456K** in total revenue across **1,000 transactions**, maintaining an impressive average transaction value of **$456**. Operating across three distinct product categories—Electronics, Clothing, and Beauty—the business demonstrates a well-balanced revenue distribution with strong demographic engagement across various age groups and genders.
 
 ---
 
