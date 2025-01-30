@@ -1,4 +1,4 @@
-# 📊 Comprehensive Report: Fast Food Menu Analysis 🍔
+# 📊 Fast Food Menu Analysis 🍔
 
 ## 📌 Introduction
 Fast food is an integral part of modern lifestyles, known for its convenience and taste. However, many consumers are unaware of the nutritional contents of their favorite meals. This report provides an in-depth analysis of McDonald's menu items, examining calorie content, macronutrient distribution, sodium levels, and health implications.
@@ -69,6 +69,8 @@ A weighted scoring system was used:
 - **Sodium Awareness**: Avoid high-sodium meals or balance intake with low-sodium alternatives.
 - **Limit Sugary Beverages**: Replace sodas with healthier alternatives like unsweetened drinks.
 - **Portion Control**: Be mindful of serving sizes to prevent excessive calorie intake.
+
+[**Full Report**](https://github.com/raymanwaytt/OIBSIP/blob/master/PROJECT%201/Nutrition%20Facts%20for%20McDonald's%20Menu/Fast%20Food%20Menu.ipynb)
 
 ## 📢 Conclusion
 This project provides critical insights into fast food nutrition, empowering consumers to make informed dietary decisions. By leveraging data analytics and visualization, we can demystify menu items and encourage healthier eating habits.
